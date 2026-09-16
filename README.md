@@ -221,14 +221,6 @@ The project uses a structured Java architecture, different input strategies, sor
 
 ---
 
-## 📊 GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-DinaMelon-181717?style=for-the-badge\&logo=github)](https://github.com/DinaMelon)
-
-I'm constantly learning, experimenting with new technologies and turning ideas into working projects.
-
----
-
 ### 📫 Let's Connect
 
 If you're interested in software development, game development, VR, 3D graphics or educational technology — feel free to explore my repositories.
