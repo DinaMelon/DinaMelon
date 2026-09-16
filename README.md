@@ -117,21 +117,6 @@ My projects include:
 
 I also have a `CheckFiles` project for analyzing files in the file system, including sorting files by size and a GUI component.
 
-### 🤖 AI & Computer Vision
-
-I'm interested in applying AI to practical software engineering problems.
-
-One of my current directions is developing systems that can:
-
-* analyze technical drawings;
-* detect objects and their components;
-* extract dimensions from drawings;
-* analyze 3D models;
-* compare drawings with 3D models;
-* identify discrepancies automatically.
-
----
-
 ## 🎨 3D & Digital Technologies
 
 Besides programming, I work with **Blender and 3D graphics**.
