@@ -47,7 +47,6 @@ Currently, I'm expanding my experience in backend development, algorithms, syste
 * TCP / WebSocket
 * File system processing
 * Unit testing
-* Git / GitHub
 
 ---
 
@@ -79,7 +78,6 @@ I work with both frontend and backend fundamentals:
 * SQL
 * Client–server architecture
 * Database interaction
-* REST concepts
 
 My `WebProjects` repository contains projects involving registration, databases, scheduling and a weather application.
 
@@ -97,7 +95,6 @@ I'm interested in:
 * Streams
 * Multithreading
 * Testing
-* Clean architecture
 
 I also work with Java projects involving data processing, sorting algorithms, input strategies and unit testing.
 
@@ -125,7 +122,6 @@ My interests include:
 
 * 3D modeling
 * hard-surface modeling
-* sculpting
 * materials and textures
 * animation
 * 3D assets for Unity
@@ -205,19 +201,6 @@ Collection of Go projects covering algorithms, concurrency, file systems and net
 A collaborative Java project for processing and sorting student data.
 
 The project uses a structured Java architecture, different input strategies, sorting algorithms, utilities and automated tests.
-
----
-
-## 🧠 Currently Learning
-
-* Advanced Java
-* Go
-* Backend development
-* Algorithms & data structures
-* Software architecture
-* AI / Computer Vision
-* 3D development
-* VR technologies
 
 ---
 
