@@ -1,6 +1,6 @@
 # Hi, I'm Dina 👋
 
-### Software Developer · Unity Developer · Programming Instructor
+### Software Developer · Unity Developer
 
 I'm a software developer and programming instructor with a background in **Mathematics and Software Engineering**.
 
@@ -19,7 +19,6 @@ Currently, I'm expanding my experience in backend development, algorithms, syste
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Frameworks & Technologies
 
